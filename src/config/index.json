@@ -59,8 +59,13 @@
       {
         "name": "Email",
         "description": "encomunicaciones2014@gmail.com",
+        "icon": "/assets/images/email.png"
+      },
+      {
+        "name": "Facebook",
+        "description": "Elizabeth Lozano",
         "icon": "/assets/images/email.png",
-        "url":""
+        "url":"https://www.facebook.com/elizabeth.lozano.1238?mibextid=ZbWKwL"
       }
     ]
   },
